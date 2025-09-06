@@ -1,14 +1,23 @@
 
 # 🌐 Cloud & Security Projects Portfolio  
 
+
+**☁️ Cloud**
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?logo=microsoftazure&logoColor=white)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
-![Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue)
-![A+](https://img.shields.io/badge/CompTIA-A%2B-lightgrey)
-![Linux](https://img.shields.io/badge/Linux-Essentials-green)
+
+**💻 CompTIA**
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-lightgrey)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
+![CompTIA Cloud+](https://img.shields.io/badge/CompTIA-Cloud%2B-brightgreen)
+
+**🐧 Linux**
+![Linux Essentials](https://img.shields.io/badge/Linux-Essentials-yellow?logo=linux&logoColor=white)
+
+**📊 IT Service Management**
 ![ITIL4](https://img.shields.io/badge/ITIL-4%20Foundation-purple)
-![Learning](https://img.shields.io/badge/Learning-Cloud%2B%20%26%20Project%2B-brightgreen)
+
 
 ---
 
