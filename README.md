@@ -10,7 +10,6 @@
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-lightgrey)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
-![CompTIA Cloud+](https://img.shields.io/badge/CompTIA-Cloud%2B-brightgreen)
 
 **🐧 Linux**
 ![Linux Essentials](https://img.shields.io/badge/Linux-Essentials-yellow?logo=linux&logoColor=white)
@@ -18,12 +17,11 @@
 **📊 IT Service Management**
 ![ITIL4](https://img.shields.io/badge/ITIL-4%20Foundation-purple)
 
-
 ---
 
-## 📌 Overview
-This repository is a **central hub** for my hands-on projects in **Cloud, Security, and Networking**.  
-Each project demonstrates practical skills with real-world scenarios, dashboards, and documentation.  
+### 📚 Currently Learning
+![CompTIA Cloud+](https://img.shields.io/badge/CompTIA-Cloud%2B-brightgreen)
+![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00594f?logo=isc2&logoColor=white)
 
 ---
 ## 📂 Featured Projects
