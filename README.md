@@ -1,79 +1,82 @@
 
-# 🚀 Cloud & Security Portfolio Projects
+# 🌐 Cloud & Security Projects Portfolio  
 
-This repository is a portfolio of hands-on projects in **Cloud, Security, and Data Analysis**.  
-Each project demonstrates practical, job-ready skills with clear documentation and screenshots.  
-
----
-
-## 📂 Projects
-
-### 1. 🔒 AWS EC2 Security Group Misconfiguration & Remediation
-- Identified and remediated an insecure inbound rule (`0.0.0.0/0` SSH access).  
-- Demonstrated exposure risk with SSH attempts, then restricted access using `My IP (/32)`.  
-- Showed before/after screenshots of remediation.  
-- [View Project Repo](https://github.com/pompyn/AWS-EC2-Security-Group-Misconfiguration-and-Remediation)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?logo=microsoftazure&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
+![Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue)
+![A+](https://img.shields.io/badge/CompTIA-A%2B-lightgrey)
+![Linux](https://img.shields.io/badge/Linux-Essentials-green)
+![ITIL4](https://img.shields.io/badge/ITIL-4%20Foundation-purple)
+![Learning](https://img.shields.io/badge/Learning-Cloud%2B%20%26%20Project%2B-brightgreen)
 
 ---
 
-### 2. 👥 AWS IAM Policy Project
-- Created and managed users, groups, and roles with **least-privilege** policies.  
-- Validated permissions using the **AWS Policy Simulator**.  
-- Documented steps and policy JSON.  
-- [View Project Repo](https://github.com/pompyn/aws-iam-policy-project)
+## 📌 Overview
+This repository is a **central hub** for my hands-on projects in **Cloud, Security, and Networking**.  
+Each project demonstrates practical skills with real-world scenarios, dashboards, and documentation.  
+
+---
+## 📂 Featured Projects
+
+### 1. 🔒 [AWS EC2 Security Group Misconfiguration and Remediation](https://github.com/pompyn/AWS-EC2-Security-Group-Misconfiguration-and-Remediation)  
+- **Skills:** AWS EC2, Security Groups, IAM, Misconfiguration Remediation  
+- Identified insecure 0.0.0.0/0 SSH access, tested exposure, and applied least-privilege fix.  
+- Before/after screenshots demonstrate the impact of proper security group configuration.  
 
 ---
 
-### 3. 📊 Centralized AWS CloudTrail Logging with S3, SNS, and CloudWatch
-- Configured **CloudTrail** for centralized logging into S3.  
-- Enabled real-time monitoring with CloudWatch alarms.  
-- Integrated SNS for security notifications.  
-- [View Project Repo](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch)
+### 2. 👤 [AWS IAM Policy Project](https://github.com/pompyn/aws-iam-policy-project)  
+- **Skills:** IAM Users/Groups, JSON Policy Documents, Policy Simulator  
+- Designed custom IAM policies aligned with **least privilege principles**.  
+- Validated access controls using the **AWS IAM Policy Simulator**.  
 
 ---
 
-### 4. 🌐 Wireshark Network Analysis Lab
-- Captured and analyzed **DNS, ICMP, HTTPS, QUIC** traffic.  
-- Used filters to isolate anomalies.  
-- Demonstrated packet-level understanding for SOC analysis.  
-- [View Project Repo](https://github.com/pompyn/Wireshark-Network-Analysis-Lab)
+### 3. 📊 [Splunk Security Log Analysis](https://github.com/pompyn/splunk-security-log-analysis)  
+- **Skills:** Splunk, Windows Security Logs, EventCode Analysis, Visualization  
+- Ingested **Security.evtx** logs into Splunk.  
+- Built SPL queries to detect failed logons, privileged usage, and activity trends.  
+- Designed a **security monitoring dashboard** with multiple visualizations.  
 
 ---
 
-### 5. 📊 Splunk Security Log Analysis-
-- Ingested **Windows Event Logs (Security.evtx)** into Splunk.  
-- Built queries for:
-  - Failed logons by user  
-  - Privileged logons  
-  - Event distribution by code  
-  - Logon activity trends  
-- Created visual dashboards and charts.  
-- [View Project Repo]([https://[github.com/pompyn/splunk-security-log-analysis](https://github.com/pompyn/splunk-security-log-analysis-)(https://github.com/pompyn/splunk-security-log-analysis-)
+### 4. 🌐 [Wireshark Network Analysis Lab](https://github.com/pompyn/Wireshark-Network-Analysis-Lab)  
+- **Skills:** DNS, ICMP, HTTPS, QUIC, Packet Filtering & Analysis  
+- Captured real network traffic, including DNS lookups and ICMP ping tests.  
+- Built filters to identify anomalies and visualize protocol distribution.  
 
 ---
 
-### 6. 🌐 AWS Resume Challenge *(in progress)*  
-- Full-stack project demonstrating AWS static website hosting, CI/CD, and Lambda/DynamoDB for visitor tracking.  
-- Currently being rebuilt with an improved design and automated counter.  
-- [Repo Coming Soon]  
+### 5. ☁️ [Centralized AWS CloudTrail Logging with S3, SNS, and CloudWatch](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch)  
+- **Skills:** CloudTrail, S3 Buckets, CloudWatch Alarms, SNS Notifications  
+- Configured centralized AWS logging for security & compliance monitoring.  
+- Built automated alerts for key events like IAM changes and failed logins.  
 
 ---
 
-### 7. 🗂️ SQL Database Management *(planned)*  
-- Design and query a **relational database** using MySQL.  
-- Demonstrate:  
-  - Schema creation with primary/foreign keys  
-  - Complex queries with `JOIN`, `GROUP BY`, `HAVING`  
-  - Data manipulation with `INSERT`, `UPDATE`, `DELETE`  
-- Project folder will include schema diagrams, queries, and results.
-- [Repo Coming Soon]
+### 6. 📄 [Cloud Resume Challenge](https://github.com/pompyn/AWS-Resume-Challenge) *(in progress)*  
+- **Skills:** S3, CloudFront, Lambda, DynamoDB, API Gateway, CI/CD  
+- Hosting a resume website backed by AWS services.  
+- Features an automated **visitor counter** built with serverless architecture.  
 
 ---
 
-## 🛠️ Tech Stack
-- **Cloud:** AWS, Azure  
-- **Security Tools:** Splunk, Wireshark  
-- **Languages:** Python, Bash, SQL, JavaScript  
-- **Other:** GitHub, Linux, VirtualBox  
+## 🔮 Upcoming Projects  
+- 🗂️ **SQL Database Security & Analysis** – Schema design, queries (`JOIN`, `GROUP BY`, `HAVING`), and auditing for security events.  
+- ☁️ **Azure + AWS Integration** – Cross-cloud backup & monitoring setup.  
+- 📡 **SOC Monitoring with Splunk + Zabbix** – End-to-end detection and alerting.  
 
 ---
+
+## 🧑‍💻 Skills Highlighted  
+- **Cloud Platforms:** AWS (Cloud Practitioner), Azure (Fundamentals)  
+- **Security & Compliance:** CompTIA Security+, ITIL 4, IAM, Cloud Security, SIEM (Splunk)  
+- **IT Foundations:** CompTIA A+, Network+, Linux Essentials  
+- **Tools & Tech:** Wireshark, Splunk, Zabbix, MySQL, Python, Bash, JavaScript, GitHub, VirtualBox  
+
+---
+
+## 📫 Contact  
+- **Email:** nima.weatherly@gmail.com  
+- **LinkedIn:** [linkedin.com/in/nima-weatherly](https://www.linkedin.com/in/nima-weatherly/) 
