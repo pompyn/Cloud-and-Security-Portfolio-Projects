@@ -12,7 +12,7 @@ Each project demonstrates practical, job-ready skills with clear documentation a
 - Identified and remediated an insecure inbound rule (`0.0.0.0/0` SSH access).  
 - Demonstrated exposure risk with SSH attempts, then restricted access using `My IP (/32)`.  
 - Showed before/after screenshots of remediation.  
-- [View Project Repo](https://github.com/yourusername/AWS-EC2-Security-Group-Misconfiguration-and-Remediation)
+- [View Project Repo](https://github.com/pompyn/AWS-EC2-Security-Group-Misconfiguration-and-Remediation)
 
 ---
 
@@ -20,7 +20,7 @@ Each project demonstrates practical, job-ready skills with clear documentation a
 - Created and managed users, groups, and roles with **least-privilege** policies.  
 - Validated permissions using the **AWS Policy Simulator**.  
 - Documented steps and policy JSON.  
-- [View Project Repo](https://github.com/yourusername/aws-iam-policy-project)
+- [View Project Repo](https://github.com/pompyn/aws-iam-policy-project)
 
 ---
 
@@ -28,7 +28,7 @@ Each project demonstrates practical, job-ready skills with clear documentation a
 - Configured **CloudTrail** for centralized logging into S3.  
 - Enabled real-time monitoring with CloudWatch alarms.  
 - Integrated SNS for security notifications.  
-- [View Project Repo](https://github.com/yourusername/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch)
+- [View Project Repo](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch)
 
 ---
 
@@ -36,7 +36,7 @@ Each project demonstrates practical, job-ready skills with clear documentation a
 - Captured and analyzed **DNS, ICMP, HTTPS, QUIC** traffic.  
 - Used filters to isolate anomalies.  
 - Demonstrated packet-level understanding for SOC analysis.  
-- [View Project Repo](https://github.com/yourusername/Wireshark-Network-Analysis-Lab)
+- [View Project Repo](https://github.com/pompyn/Wireshark-Network-Analysis-Lab)
 
 ---
 
@@ -48,7 +48,7 @@ Each project demonstrates practical, job-ready skills with clear documentation a
   - Event distribution by code  
   - Logon activity trends  
 - Created visual dashboards and charts.  
-- [View Project Repo](https://github.com/yourusername/splunk-security-log-analysis)
+- [View Project Repo](https://github.com/pompyn/splunk-security-log-analysis)
 
 ---
 
