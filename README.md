@@ -40,7 +40,7 @@ Each project demonstrates practical, job-ready skills with clear documentation a
 
 ---
 
-### 5. 📊 Splunk Security Log Analysis
+### 5. 📊 Splunk Security Log Analysis-
 - Ingested **Windows Event Logs (Security.evtx)** into Splunk.  
 - Built queries for:
   - Failed logons by user  
