@@ -48,7 +48,7 @@ Each project demonstrates practical, job-ready skills with clear documentation a
   - Event distribution by code  
   - Logon activity trends  
 - Created visual dashboards and charts.  
-- [View Project Repo](https://github.com/pompyn/splunk-security-log-analysis)
+- [View Project Repo](https://[github.com/pompyn/splunk-security-log-analysis])
 
 ---
 
