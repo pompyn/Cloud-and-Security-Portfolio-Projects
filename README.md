@@ -33,7 +33,7 @@ Each project demonstrates practical skills with real-world scenarios, dashboards
 
 ---
 
-### 3. 📊 [Splunk Security Log Analysis](https://github.com/pompyn/splunk-security-log-analysis)  
+### 3. 📊 [Splunk Security Log Analysis](https://github.com/pompyn/splunk-security-log-analysis-)  
 - **Skills:** Splunk, Windows Security Logs, EventCode Analysis, Visualization  
 - Ingested **Security.evtx** logs into Splunk.  
 - Built SPL queries to detect failed logons, privileged usage, and activity trends.  
