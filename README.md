@@ -24,7 +24,11 @@
 ![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00594f?logo=isc2&logoColor=white)
 
 ---
-## 📂 Featured Projects
+
+### 🎯 Future Goals
+![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?logo=amazon-aws&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-Admin%20%2F%20SIEM%20Specialist-000000?logo=splunk&logoColor=white)
+---
 
 ### 1. 🔒 [AWS EC2 Security Group Misconfiguration and Remediation](https://github.com/pompyn/AWS-EC2-Security-Group-Misconfiguration-and-Remediation)  
 - **Skills:** AWS EC2, Security Groups, IAM, Misconfiguration Remediation  
