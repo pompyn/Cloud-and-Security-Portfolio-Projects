@@ -1,5 +1,24 @@
+<!-- 🖼️ Banner -->
+![Header Banner](./header.png)
 
-# 🌐 Cloud & Security Projects Portfolio  
+<div align="center">
+
+# 🌩️ Nima Weatherly — Cloud & Security Portfolio  
+
+**Cloud & Network Engineer | Security Enthusiast | Lifelong Learner**
+
+![Location](https://img.shields.io/badge/Location-Remote-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active%20Learner-success?style=flat-square)
+![Last Updated](https://img.shields.io/github/last-commit/pompyn/Cloud-and-Security-Portfolio?label=Last%20Updated&style=flat-square)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pompyn.Cloud-and-Security-Portfolio)
+
+---
+
+🚀 *Empowering secure, scalable, and intelligent cloud environments through automation, AI integration, and multi-cloud design.*
+
+</div>
+
+---
 
 This project showcases a multi-cloud architecture using AWS and Azure with integrated CI/CD and monitoring. It demonstrates infrastructure-as-code principles, automation through GitHub Actions, and a secure, scalable cloud design. Designed as part of my professional portfolio to highlight cloud deployment, IAM management, and system resilience.
 
