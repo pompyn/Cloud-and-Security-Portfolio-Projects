@@ -11,6 +11,10 @@
 ![Status](https://img.shields.io/badge/Status-Active%20Learner-success?style=flat-square)
 ![Last Updated](https://img.shields.io/github/last-commit/pompyn/Cloud-and-Security-Portfolio-Projects?label=Last%20Updated&style=flat-square)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pompyn.Cloud-and-Security-Portfolio)
+
+---
+
+🎯 Professional Status Badges
 ![Open to Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-00b894?style=flat-square)
 ![Freelance Projects](https://img.shields.io/badge/Available%20for-Freelance%20Projects-0984e3?style=flat-square)
 ![Actively Learning](https://img.shields.io/badge/Actively-Learning-6c5ce7?style=flat-square)
