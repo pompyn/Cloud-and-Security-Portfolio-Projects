@@ -1,6 +1,7 @@
 
 # 🌐 Cloud & Security Projects Portfolio  
 
+This project showcases a multi-cloud architecture using AWS and Azure with integrated CI/CD and monitoring. It demonstrates infrastructure-as-code principles, automation through GitHub Actions, and a secure, scalable cloud design. Designed as part of my professional portfolio to highlight cloud deployment, IAM management, and system resilience.
 
 **☁️ Cloud**
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white)
@@ -10,6 +11,7 @@
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-lightgrey)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
+![CompTIA Cloud+](https://img.shields.io/badge/CompTIA-Cloud%2B-brightgreen)
 
 **🐧 Linux**
 ![Linux Essentials](https://img.shields.io/badge/Linux-Essentials-yellow?logo=linux&logoColor=white)
@@ -20,14 +22,18 @@
 ---
 
 ### 📚 Currently Learning
-![CompTIA Cloud+](https://img.shields.io/badge/CompTIA-Cloud%2B-brightgreen)
-![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00594f?logo=isc2&logoColor=white)
+![Oracle AI Foundations](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-AI%20Foundations%20Associate-red?logo=oracle&logoColor=white)  
+![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00594f?logo=isc2&logoColor=white)  
 
 ---
 
 ### 🎯 Future Goals
-![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?logo=amazon-aws&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-Admin%20%2F%20SIEM%20Specialist-000000?logo=splunk&logoColor=white)
+![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?logo=amazon-aws&logoColor=white)  
+![Splunk](https://img.shields.io/badge/Splunk-Admin%20%2F%20SIEM%20Specialist-000000?logo=splunk&logoColor=white)  
+![AI Cloud Specialist](https://img.shields.io/badge/AI-Cloud%20Automation%20Engineer-8A2BE2?logo=openai&logoColor=white)  
+
+---
+💡 *Empowering secure and intelligent cloud environments through automation, AI integration, and multi-cloud expertise.*
 ---
 
 ### 1. 🔒 [AWS EC2 Security Group Misconfiguration and Remediation](https://github.com/pompyn/AWS-EC2-Security-Group-Misconfiguration-and-Remediation)  
