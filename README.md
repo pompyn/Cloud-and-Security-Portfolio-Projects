@@ -21,6 +21,21 @@
 
 ---
 
+☁️ Tech Power Badges
+![Powered by AWS](https://img.shields.io/badge/Powered%20by-AWS-orange?logo=amazon-aws&logoColor=white&style=flat-square)
+![Powered by Azure](https://img.shields.io/badge/Powered%20by-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)
+![Secured by CompTIA](https://img.shields.io/badge/Secured%20by-CompTIA-red?style=flat-square)
+
+---
+
+🤖 Personality + Passion Badges
+![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+![Cybersecurity Advocate](https://img.shields.io/badge/Cybersecurity-Advocate-1abc9c?style=flat-square)
+![Cloud Innovator](https://img.shields.io/badge/Cloud-Innovator-0984e3?style=flat-square)
+![Tech for Good](https://img.shields.io/badge/Tech-for%20Good-6ab04c?style=flat-square)
+
+---
+
 🚀 *Empowering secure, scalable, and intelligent cloud environments through automation, AI integration, and multi-cloud design.*
 
 </div>
