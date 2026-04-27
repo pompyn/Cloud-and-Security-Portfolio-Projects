@@ -77,21 +77,30 @@ This project showcases a multi-cloud architecture using AWS and Azure with integ
 💡 *Empowering secure and intelligent cloud environments through automation, AI integration, and multi-cloud expertise.*
 ---
 
-### 1. 🔒 [AWS EC2 Security Group Misconfiguration and Remediation](https://github.com/pompyn/AWS-EC2-Security-Group-Misconfiguration-and-Remediation)  
+
+### 1. 🔭 [Vulnerability-Assesment-and-Remediation](https://github.com/pompyn/Vulnerability-Assesment-and-Remediation-in-a-Lab-Environment-enfvi/blob/main/README.md)
+- **Skills:** Vulnerability Scanning, Risk Assessment, Remediation, Security Analysis
+- Identified and remediated a high-severity vulnerability involving outdated Splunk software.
+- Evaluated SSL certificate findings and applied risk-based decision-making appropriate to a lab environment.
+- Validated remediation by re-running scans and confirming reduced vulnerability exposure.
+  
+---
+
+### 2. 🔒 [AWS EC2 Security Group Misconfiguration and Remediation](https://github.com/pompyn/AWS-EC2-Security-Group-Misconfiguration-and-Remediation)  
 - **Skills:** AWS EC2, Security Groups, IAM, Misconfiguration Remediation  
 - Identified insecure 0.0.0.0/0 SSH access, tested exposure, and applied least-privilege fix.  
 - Before/after screenshots demonstrate the impact of proper security group configuration.  
 
 ---
 
-### 2. 👤 [AWS IAM Policy Project](https://github.com/pompyn/aws-iam-policy-project)  
+### 3. 👤 [AWS IAM Policy Project](https://github.com/pompyn/aws-iam-policy-project)  
 - **Skills:** IAM Users/Groups, JSON Policy Documents, Policy Simulator  
 - Designed custom IAM policies aligned with **least privilege principles**.  
 - Validated access controls using the **AWS IAM Policy Simulator**.  
 
 ---
 
-### 3. 📊 [Splunk Security Log Analysis](https://github.com/pompyn/splunk-security-log-analysis-)  
+### 4. 📊 [Splunk Security Log Analysis](https://github.com/pompyn/splunk-security-log-analysis-)  
 - **Skills:** Splunk, Windows Security Logs, EventCode Analysis, Visualization  
 - Ingested **Security.evtx** logs into Splunk.  
 - Built SPL queries to detect failed logons, privileged usage, and activity trends.  
@@ -99,21 +108,21 @@ This project showcases a multi-cloud architecture using AWS and Azure with integ
 
 ---
 
-### 4. 🌐 [Wireshark Network Analysis Lab](https://github.com/pompyn/Wireshark-Network-Analysis-Lab)  
+### 5. 🌐 [Wireshark Network Analysis Lab](https://github.com/pompyn/Wireshark-Network-Analysis-Lab)  
 - **Skills:** DNS, ICMP, HTTPS, QUIC, Packet Filtering & Analysis  
 - Captured real network traffic, including DNS lookups and ICMP ping tests.  
 - Built filters to identify anomalies and visualize protocol distribution.  
 
 ---
 
-### 5. ☁️ [Centralized AWS CloudTrail Logging with S3, SNS, and CloudWatch](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch)  
+### 6. ☁️ [Centralized AWS CloudTrail Logging with S3, SNS, and CloudWatch](https://github.com/pompyn/Centralized-AWS-CloudTrail-Logging-with-S3-SNS-and-CloudWatch)  
 - **Skills:** CloudTrail, S3 Buckets, CloudWatch Alarms, SNS Notifications  
 - Configured centralized AWS logging for security & compliance monitoring.  
 - Built automated alerts for key events like IAM changes and failed logins.  
 
 ---
 
-### 6. 📄 [Cloud Resume Challenge](https://github.com/pompyn/AWS-Resume-Challenge) *(in progress)*  
+### 7. 📄 [Cloud Resume Challenge](https://github.com/pompyn/AWS-Resume-Challenge) *(in progress)*  
 - **Skills:** S3, CloudFront, Lambda, DynamoDB, API Gateway, CI/CD  
 - Hosting a resume website backed by AWS services.  
 - Features an automated **visitor counter** built with serverless architecture.  
