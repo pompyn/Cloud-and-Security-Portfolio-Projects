@@ -5,7 +5,7 @@
 
 # 🌩️ Nima Weatherly — Cloud & Security Portfolio  
 
-**Cloud & Network Engineer | Security Enthusiast | Lifelong Learner**
+**Cloud & Security Analyst | GRC-Focused | Risk & Compliance Enthusiast**
 
 ![Location](https://img.shields.io/badge/Location-Remote-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active%20Learner-success?style=flat-square)
