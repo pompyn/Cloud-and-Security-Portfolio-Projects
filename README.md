@@ -51,7 +51,6 @@ This project showcases a multi-cloud architecture using AWS and Azure with integ
 **💻 CompTIA**
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-lightgrey)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
 ![CompTIA Cloud+](https://img.shields.io/badge/CompTIA-Cloud%2B-brightgreen)
 
 **🐧 Linux**
@@ -61,10 +60,13 @@ This project showcases a multi-cloud architecture using AWS and Azure with integ
 ![ITIL4](https://img.shields.io/badge/ITIL-4%20Foundation-purple)
 
 ---
+## 🔐 Cybersecurity
+![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00594f?logo=isc2&logoColor=white) 
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
+---
 
 ### 📚 Currently Learning
 ![Oracle AI Foundations](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-AI%20Foundations%20Associate-red?logo=oracle&logoColor=white)  
-![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00594f?logo=isc2&logoColor=white)  
 
 ---
 
@@ -133,7 +135,7 @@ This project showcases a multi-cloud architecture using AWS and Azure with integ
 -Designed and implemented a Zabbix monitoring solution to provide visibility into system health, resource utilization, and service availability across a lab environment. 
 -Configured hosts, monitoring templates, dashboards, and alerting mechanisms to proactively identify performance issues and support operational stability.
 
-
+---
 ## 🔮 Upcoming Projects  
 - 🗂️ **SQL Database Security & Analysis** – Schema design, queries (`JOIN`, `GROUP BY`, `HAVING`), and auditing for security events.  
 - ☁️ **Azure + AWS Integration** – Cross-cloud backup & monitoring setup.  
