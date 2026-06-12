@@ -67,7 +67,8 @@ This project showcases a multi-cloud architecture using AWS and Azure with integ
 
 ### 📚 Currently Learning
 ![Oracle AI Foundations](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-AI%20Foundations%20Associate-red?logo=oracle&logoColor=white)  
-
+[![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?logo=microsoftazure&logoColor=white)]()
+[![AZ-305](https://img.shields.io/badge/AZ--305-Azure%20Solutions%20Architect-0078D4?logo=microsoftazure&logoColor=white)]()
 ---
 
 ### 🎯 Future Goals
