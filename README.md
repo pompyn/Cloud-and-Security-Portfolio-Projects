@@ -139,7 +139,7 @@ This project showcases a multi-cloud architecture using AWS and Azure with integ
 
 ---
 
-### 9. 🌐 [Secure Hybrid Cloud Networking Solution]([YOUR_GITHUB_LINK](https://github.com/pompyn/Secure-Hybrid-Cloud-Networking-Solution))
+### 9. 🌐 [Secure Hybrid Cloud Networking Solution](https://github.com/pompyn/Secure-Hybrid-Cloud-Networking-Solution/blob/main/README.md)
 
 * **Skills:** Azure Virtual Networking, Hybrid Cloud Architecture, VLAN Segmentation, Routing & Switching, DHCP, Firewall Policies, Network Security Groups (NSGs), Network Troubleshooting, Technical Documentation
 
