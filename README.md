@@ -59,7 +59,6 @@ This project showcases a multi-cloud architecture using AWS and Azure with integ
 **📊 IT Service Management**
 ![ITIL4](https://img.shields.io/badge/ITIL-4%20Foundation-purple)
 
----
 ## 🔐 Cybersecurity
 ![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00594f?logo=isc2&logoColor=white) 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
