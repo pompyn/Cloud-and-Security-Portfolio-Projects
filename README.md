@@ -128,6 +128,11 @@ This project showcases a multi-cloud architecture using AWS and Azure with integ
 - Features an automated **visitor counter** built with serverless architecture.  
 
 ---
+### 8. [Zabbix](https://github.com/pompyn/Practical-NOC-SOC-Lab-Series)
+-**Skills:**Infrastructure Monitoring, System Administration, Performance Monitoring, Alerting & Notification, Linux Administration, Troubleshooting, Network Monitoring, Documentation
+-Designed and implemented a Zabbix monitoring solution to provide visibility into system health, resource utilization, and service availability across a lab environment. 
+-Configured hosts, monitoring templates, dashboards, and alerting mechanisms to proactively identify performance issues and support operational stability.
+
 
 ## 🔮 Upcoming Projects  
 - 🗂️ **SQL Database Security & Analysis** – Schema design, queries (`JOIN`, `GROUP BY`, `HAVING`), and auditing for security events.  
