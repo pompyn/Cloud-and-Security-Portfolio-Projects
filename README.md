@@ -12,7 +12,7 @@ Cloud & Security Analyst | GRC-Focused | Risk & Compliance Enthusiast
 
 ![Location](https://img.shields.io/badge/Location-Remote-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active%20Learner-success?style=flat-square)
-![Last Updated](https://img.shields.io/github/last-commit/pompyn/Cloud-and-Security-Portfolio-Projects?label=Last%20Updated&style=flat-square)
+![Actively Updated](https://img.shields.io/github/last-commit/pompyn/Cloud-and-Security-Portfolio-Projects?label=Updated&style=flat-square)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pompyn.Cloud-and-Security-Portfolio)
 
 ---
