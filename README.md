@@ -44,6 +44,17 @@
 
 This project showcases a multi-cloud architecture using AWS and Azure with integrated CI/CD and monitoring. It demonstrates infrastructure-as-code principles, automation through GitHub Actions, and a secure, scalable cloud design. Designed as part of my professional portfolio to highlight cloud deployment, IAM management, and system resilience.
 
+---
+
+## 📚 Professional Development
+
+Continuous learning is a core part of my approach to cloud computing and cybersecurity. I maintain a separate repository documenting my industry certifications, continuing education, professional philosophy, and how I apply that knowledge through hands-on labs and projects.
+
+➡️ **Professional Development Portfolio:**  
+https://github.com/pompyn/professional-development-portfolio
+
+---
+
 **☁️ Cloud**
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?logo=microsoftazure&logoColor=white)
