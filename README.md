@@ -50,8 +50,7 @@ This project showcases a multi-cloud architecture using AWS and Azure with integ
 
 Continuous learning is a core part of my approach to cloud computing and cybersecurity. I maintain a separate repository documenting my industry certifications, continuing education, professional philosophy, and how I apply that knowledge through hands-on labs and projects.
 
-➡️ **Professional Development Portfolio:**  
-https://github.com/pompyn/professional-development-portfolio
+➡️ **[Explore My Professional Development Portfolio](https://github.com/pompyn/professional-development-portfolio)**
 
 ---
 
