@@ -1,11 +1,11 @@
 <!-- 🖼️ Banner -->
-![Header Banner](images/header.jpg)
+<h1 align="center">
+☁️ Nima Weatherly — Cloud & Security Portfolio
+</h1>
 
-<div align="center">
-
-# 🌩️ Nima Weatherly — Cloud & Security Portfolio  
-
-**Cloud & Security Analyst | GRC-Focused | Risk & Compliance Enthusiast**
+<p align="center">
+Cloud & Security Analyst | GRC-Focused | Risk & Compliance Enthusiast
+</p>
 
 ![Location](https://img.shields.io/badge/Location-Remote-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active%20Learner-success?style=flat-square)
