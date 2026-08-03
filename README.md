@@ -1,5 +1,5 @@
 <!-- 🖼️ Banner -->
-![Header Banner]([[./header.png](https://github.com/pompyn/Cloud-and-Security-Portfolio-Projects/blob/main/images/header.jpg)](https://github.com/pompyn/Cloud-and-Security-Portfolio-Projects/blob/main/header.jpg?raw=true))
+![Header Banner](images/header.jpg)
 
 <div align="center">
 
