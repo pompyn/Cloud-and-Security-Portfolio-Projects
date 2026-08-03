@@ -70,7 +70,8 @@ Continuous learning is central to my approach to cloud computing, cybersecurity,
 ![Linux Essentials](https://img.shields.io/badge/Linux-Essentials-yellow?logo=linux&logoColor=white)
 
 **📊 IT Service Management**
-![ITIL4](https://img.shields.io/badge/ITIL-4%20Foundation-purple)
+![ITIL 4 Foundation](https://img.shields.io/badge/ITIL-4%20Foundation-purple?style=flat-square)
+![HubSpot Service Hub Software Certified](https://img.shields.io/badge/HubSpot-Service%20Hub%20Software%20Certified-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
 
 **🛡️ Cybersecurity**
 ![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00594f?logo=isc2&logoColor=white) 
