@@ -1,4 +1,7 @@
 <!-- 🖼️ Banner -->
+<p align="center">
+  <img src="images/header.jpg" alt="Header Banner" width="95%" height="200">
+</p>
 <h1 align="center">
 ☁️ Nima Weatherly — Cloud & Security Portfolio
 </h1>
