@@ -9,12 +9,12 @@
 <p align="center">
 Cloud & Security Analyst | GRC-Focused | Risk & Compliance Enthusiast
 </p>
-
-![Location](https://img.shields.io/badge/Location-Remote-blue?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active%20Learner-success?style=flat-square)
-![Actively Updated](https://img.shields.io/github/last-commit/pompyn/Cloud-and-Security-Portfolio-Projects?label=Updated&style=flat-square)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pompyn.Cloud-and-Security-Portfolio)
-
+<p align="center">
+  <img alt="Location" src="https://img.shields.io/badge/Location-Remote-blue?style=flat-square">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Active%20Learner-success?style=flat-square">
+  <img alt="Updated" src="https://img.shields.io/github/last-commit/pompyn/Cloud-and-Security-Portfolio-Projects?label=Updated&style=flat-square">
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=pompyn.Cloud-and-Security-Portfolio">
+</p>
 ---
 
 🎯 Professional Status Badges
