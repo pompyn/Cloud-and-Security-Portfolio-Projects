@@ -116,21 +116,7 @@ Continuous learning is central to my approach to cloud computing, cybersecurity,
 
 ---
 
-### 7. 📄 [Cloud Resume Challenge](https://github.com/pompyn/AWS-Resume-Challenge) *(in progress)*  
-- **Skills:** S3, CloudFront, Lambda, DynamoDB, API Gateway, CI/CD  
-- Hosting a resume website backed by AWS services.  
-- Features an automated **visitor counter** built with serverless architecture.  
-
----
-
-### 8. 📊 [Zabbix](https://github.com/pompyn/Practical-NOC-SOC-Lab-Series) *(in progress)*
-- **Skills:** Infrastructure Monitoring, System Administration, Performance Monitoring, Alerting & Notification, Linux Administration, Troubleshooting, Network Monitoring, Documentation
-- Designed and implemented a Zabbix monitoring solution to provide visibility into system health, resource utilization, and service availability across a lab environment. 
-- Configured hosts, monitoring templates, dashboards, and alerting mechanisms to proactively identify performance issues and support operational stability.
-
----
-
-### 9. 🌐 [Secure Hybrid Cloud Networking Solution](https://github.com/pompyn/Secure-Hybrid-Cloud-Networking-Solution/blob/main/README.md)
+### 7. 🌐 [Secure Hybrid Cloud Networking Solution](https://github.com/pompyn/Secure-Hybrid-Cloud-Networking-Solution/blob/main/README.md)
 
 * **Skills:** Azure Virtual Networking, Hybrid Cloud Architecture, VLAN Segmentation, Routing & Switching, DHCP, Firewall Policies, Network Security Groups (NSGs), Network Troubleshooting, Technical Documentation
 
@@ -141,6 +127,22 @@ Continuous learning is central to my approach to cloud computing, cybersecurity,
 * Validated secure communication between isolated network segments while maintaining scalability, security, and operational efficiency.
 
 ---
+## In Progress
+
+### 📄 [Cloud Resume Challenge](https://github.com/pompyn/AWS-Resume-Challenge)
+- **Skills:** S3, CloudFront, Lambda, DynamoDB, API Gateway, CI/CD  
+- Hosting a resume website backed by AWS services.  
+- Features an automated **visitor counter** built with serverless architecture.  
+
+---
+
+### 📊 [Zabbix](https://github.com/pompyn/Practical-NOC-SOC-Lab-Series)
+- **Skills:** Infrastructure Monitoring, System Administration, Performance Monitoring, Alerting & Notification, Linux Administration, Troubleshooting, Network Monitoring, Documentation
+- Designed and implemented a Zabbix monitoring solution to provide visibility into system health, resource utilization, and service availability across a lab environment. 
+- Configured hosts, monitoring templates, dashboards, and alerting mechanisms to proactively identify performance issues and support operational stability.
+
+---
+
 ## 🔮 Upcoming Projects  
 - 🗂️ **SQL Database Security & Analysis** – Schema design, queries (`JOIN`, `GROUP BY`, `HAVING`), and auditing for security events.  
 - ☁️ **Azure + AWS Integration** – Cross-cloud backup & monitoring setup.  
@@ -156,6 +158,6 @@ Continuous learning is central to my approach to cloud computing, cybersecurity,
 
 ---
 
-## 📫 Contact  
-- **Email:** nima.weatherly@gmail.com  
+## 📬 Contact
+- **Email:** nima.weatherly@weatherlytoo.org
 - **LinkedIn:** [linkedin.com/in/nima-weatherly](https://www.linkedin.com/in/nima-weatherly/) 
