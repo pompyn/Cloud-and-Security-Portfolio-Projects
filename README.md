@@ -9,34 +9,13 @@
 <p align="center">
 Cloud & Security Analyst | GRC-Focused | Risk & Compliance Enthusiast
 </p>
+**6+ hands-on AWS & Azure security labs — IAM, centralized logging, network segmentation, and vulnerability remediation.**
 <p align="center">
   <img alt="Location" src="https://img.shields.io/badge/Location-Remote-blue?style=flat-square">
   <img alt="Status" src="https://img.shields.io/badge/Status-Active%20Learner-success?style=flat-square">
   <img alt="Updated" src="https://img.shields.io/github/last-commit/pompyn/Cloud-and-Security-Portfolio-Projects?label=Updated&style=flat-square">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=pompyn.Cloud-and-Security-Portfolio">
 </p>
----
-
-🎯 Professional Status Badges
-![Open to Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-00b894?style=flat-square)
-![Freelance Projects](https://img.shields.io/badge/Available%20for-Freelance%20Projects-0984e3?style=flat-square)
-![Actively Learning](https://img.shields.io/badge/Actively-Learning-6c5ce7?style=flat-square)
-
----
-
-☁️ Tech Power Badges
-![Powered by AWS](https://img.shields.io/badge/Powered%20by-AWS-orange?logo=amazon-aws&logoColor=white&style=flat-square)
-![Powered by Azure](https://img.shields.io/badge/Powered%20by-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)
-![Secured by CompTIA](https://img.shields.io/badge/Secured%20by-CompTIA-red?style=flat-square)
-
----
-
-🤖 Personality + Passion Badges
-![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-8A2BE2?style=flat-square&logo=openai&logoColor=white)
-![Cybersecurity Advocate](https://img.shields.io/badge/Cybersecurity-Advocate-1abc9c?style=flat-square)
-![Cloud Innovator](https://img.shields.io/badge/Cloud-Innovator-0984e3?style=flat-square)
-![Tech for Good](https://img.shields.io/badge/Tech-for%20Good-6ab04c?style=flat-square)
-
 ---
 
 🚀 *Empowering secure, scalable, and intelligent cloud environments through automation, AI integration, and multi-cloud design.*
