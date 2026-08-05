@@ -16,7 +16,6 @@ Cloud & Security Analyst | GRC-Focused | Risk & Compliance Enthusiast
   <img alt="Updated" src="https://img.shields.io/github/last-commit/pompyn/Cloud-and-Security-Portfolio-Projects?label=Updated&style=flat-square">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=pompyn.Cloud-and-Security-Portfolio">
 </p>
----
 
 🚀 *Empowering secure, scalable, and intelligent cloud environments through automation, AI integration, and multi-cloud design.*
 
@@ -24,8 +23,7 @@ Cloud & Security Analyst | GRC-Focused | Risk & Compliance Enthusiast
 
 ---
 
-This project showcases a multi-cloud architecture using AWS and Azure with integrated CI/CD and monitoring. It demonstrates infrastructure-as-code principles, automation through GitHub Actions, and a secure, scalable cloud design. Designed as part of my professional portfolio to highlight cloud deployment, IAM management, and system resilience.
-
+This repository is an index of my hands-on cloud and security portfolio projects. Each project below has its own repo with full documentation, screenshots, and lessons learned, covering AWS and Azure deployments, IAM and least-privilege access, centralized logging and monitoring, vulnerability remediation, and secure network design.
 ---
 
 ## 📚 Professional Development
