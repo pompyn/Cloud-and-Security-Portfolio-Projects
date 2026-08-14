@@ -163,7 +163,7 @@ Continuous learning is central to my approach to cloud computing, cybersecurity,
 
 ## 🧑‍💻 Skills Highlighted  
 - **Cloud Platforms:** AWS (Cloud Practitioner), Azure (Fundamentals)  
-- **Security & Compliance:** CompTIA Security+, ITIL 4, IAM, Cloud Security, SIEM (Splunk)  
+- **Security & Compliance:** CompTIA Security+, ITIL 4, IAM, Cloud Security, SIEM (Splunk), GRC  
 - **IT Foundations:** CompTIA A+, Network+, Linux Essentials  
 - **Tools & Tech:** Wireshark, Splunk, Zabbix, MySQL, Python, Bash, JavaScript, GitHub, VirtualBox  
 
