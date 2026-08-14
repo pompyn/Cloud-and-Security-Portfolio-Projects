@@ -127,6 +127,17 @@ Continuous learning is central to my approach to cloud computing, cybersecurity,
 * Validated secure communication between isolated network segments while maintaining scalability, security, and operational efficiency.
 
 ---
+
+## 8. 🔐 [User Lifecycle Management Consultation](https://github.com/pompyn/User_Lifecycle_Management_Consultation/blob/main/README.md)
+
+- **Skills:** IAM, Identity Lifecycle Management, RBAC, MFA, SSO, PAM, GRC, Access Control, Compliance
+- Designed a comprehensive IAM solution for a global enterprise with 150,000+ employees across 100+ countries.
+- Proposed automated provisioning, role-change, and de-provisioning workflows integrated with HR systems.
+- Defined access control mechanisms including RBAC, least privilege, MFA, SSO, and Privileged Access Management.
+- Aligned solution to business objectives including operational efficiency, security posture, and global scalability.
+
+---
+
 ## In Progress
 
 ### 📄 [Cloud Resume Challenge](https://github.com/pompyn/AWS-Resume-Challenge)
